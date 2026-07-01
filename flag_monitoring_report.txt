@@ -1,0 +1,21 @@
+=== SOC FLAG REPORT ===
+
+Name: Osmand Hadjiamer Decampong
+Cyber Handle: Cyber Impunity Vigilantes
+Score: 2/10
+Rating: Trainee
+
+=== USER ANSWERS ===
+Q1: auth.log
+Q2: 10
+Q3: 192.168.1.10 10.0.0.5 203.0.113.50
+Q4: 203.0.113.50
+Q5: 203.0.113.50
+Q6: yes
+Q7: grep "Flag" auth.log
+Q8: FLAG{entry_point_identified}
+Q9: 45.33.32.1
+Q10: 203.0.113.50 - 10 - 203.0.113.50
+
+=== RESULT ===
+Status: TRAINING REQUIRED
